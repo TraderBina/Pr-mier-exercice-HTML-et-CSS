@@ -1,0 +1,157 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.onglet {
+    float: right;
+    margin-top: -31px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 12px;
+   
+   
+    
+    
+
+}
+
+.onglet a{
+    text-decoration: none;
+    color: #FFF;
+}
+nav{
+    background-color:#C55394;
+    padding: 20px;
+}
+
+
+
+
+
+
+body{
+    background-image: url(background.png)  ;
+}
+
+.titre{
+background-image: url(rainbow.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: 400px 170px ;
+padding: 110px;
+text-align: center;
+color:#C55394;
+margin-top:20px;
+font-family: 'courgette', cursive;
+
+}
+
+.image{
+display:inline-flex;
+
+}
+
+ #border{
+    border: 5px groove;
+    border-radius: 20px;
+    color: rgb(26, 24, 24);
+    margin-right: 16%;
+    margin-left: 16%;
+    box-shadow: 1px 1px 5px 5px gray;
+    background-color: #FFF;
+    
+}
+
+
+
+
+
+
+#a,#b,#c{
+    font-family: 'Courgette', cursive;
+    color: #EB43A3;
+}
+
+div#foot{
+float: right;
+margin-top: -450px;
+margin-right: 135px;
+color: rgba(9, 5, 24, 0.527);
+}
+
+h6{
+    color:#EB43A3;
+    font-family: 'courgette' , cursive;
+    font-size: medium;
+
+}
+
+
+figcaption{
+    position: relative;
+    background-color:#333;
+    opacity: 88%;
+    margin-top: -15px;
+    color:#FFF;
+    text-align: center;
+}
+
+ figure{
+     position: relative;
+     display: inline-block;
+     margin:0 auto;
+    padding-left: 11px;
+    padding-right: 11px;    
+}
+
+
+button{
+
+    background-color: rgb(241, 88, 216);
+}
+
+.onglet a:hover{ 
+    background-color:#EB43A3;
+    padding: 18px;
+}
+
+#footer{
+
+background-color: #E577B5;
+padding: 25px;
+margin-top: 30px;
+
+}
+
+h5{
+    float: left;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    margin-top: -5px;
+    color: rgba(179, 77, 128, 0.527);
+
+}
+
+h2{
+    float: right;
+    margin-right: 15px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    margin-top: -5px;
+    font-size: small;
+    color: #333;
+}
+
+.carte{
+padding-left: 15px;
+}
+.phrase{
+    padding: 15px;
+    font-family: Arial, sans-serif;
+}
+
+.U{
+    font-family:'courgette', cursive;
+    font-size: large;
+    color: #FFF;
+}
+
